@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\ncService\ncService\bin\Release\ncService.exe
+C:\Users\Administrator\source\repos\ncService\ncService\bin\Release\ncService.pdb
+C:\Users\Administrator\source\repos\ncService\ncService\obj\Release\ncService.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ncService\ncService\obj\Release\ncService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ncService\ncService\obj\Release\ncService.exe
+C:\Users\Administrator\source\repos\ncService\ncService\obj\Release\ncService.pdb
+C:\Users\Administrator\source\repos\ncService\ncService\bin\Release\ncService.exe.config
+C:\Users\Administrator\source\repos\ncService\ncService\obj\Release\ncService.csproj.SuggestedBindingRedirects.cache

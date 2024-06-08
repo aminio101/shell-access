@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\ncService\ncService\bin\Debug\ncService.exe
+C:\Users\Administrator\source\repos\ncService\ncService\bin\Debug\ncService.pdb
+C:\Users\Administrator\source\repos\ncService\ncService\obj\Debug\ncService.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ncService\ncService\obj\Debug\ncService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ncService\ncService\obj\Debug\ncService.exe
+C:\Users\Administrator\source\repos\ncService\ncService\obj\Debug\ncService.pdb
