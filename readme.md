@@ -2,7 +2,7 @@
 * for run with sc.exe
 
 ```
-sc creare `<SERVICE-NAME>` create binpath="<ncService.exe PATH>"
+sc create `<SERVICE-NAME>` binpath="<ncService.exe PATH>"
 ```
 
 * after that from srvicess make it automatic
